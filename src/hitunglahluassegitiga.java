@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class hitunglahluassegitiga {
+public class hitunglahluassegitiga {
+    public static void main(String[] args) {
+        System.out.println();
+    }
 }
